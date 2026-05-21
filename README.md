@@ -33,11 +33,3 @@ Simple Telegram cafe bot made with Python and aiogram.
 | Sandwich | 1200 тг |
 
 ---
-
-## 🚀 Installation
-
-### 1. Clone repository
-
-```bash
-git clone https://github.com/yourusername/cafe-bot.git
-cd cafe-bot
